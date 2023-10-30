@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm passionate about crafting elegant code and bui
 <!-- Documentation for the icons -->
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 
-![jesuggc's Stats](https://github-readme-stats.vercel.app/api?username=jesuggc&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
-![jesuggc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesuggc&theme=gruvbox&hide_border=true)
+Hola ![jesuggc's Stats](https://github-readme-stats.vercel.app/api?username=jesuggc&theme=gruvbox&show_icons=true&hide_border=true&count_private=true) 
+![jesuggc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jesuggc&theme=gruvbox&hide_border=true) Que tal
 
 
 
