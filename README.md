@@ -1,9 +1,31 @@
 ### Hi there 👋
-
-
+## Familiarized with
+[![My Skills](https://skillicons.dev/icons?i=eclipse,visualstudio,vscode)](https://skillicons.dev)
+## Actually working on
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,js,nodejs,react)](https://skillicons.dev)
+## Already worked with
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,java,md,mongodb,mysql)](https://skillicons.dev)
+bash
+bootstrap
+c
+cpp	
+css
+eclipse
+git
+github
+html
+java
+js
+md
+mongodb
+mysql
+nodejs
+react
+visualstudio
+vscode
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **jesuggc/jesuggc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
