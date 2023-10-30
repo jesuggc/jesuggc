@@ -25,7 +25,12 @@ visualstudio
 vscode
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
 
 <!--
 **jesuggc/jesuggc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +38,6 @@ vscode
 Here are some ideas to get you started:
 
 
-            <i class="devicon-numpy-original"></i>
           
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
